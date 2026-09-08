@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ASUS\\Desktop\\Padroes\\Calculadora_202321250008.jar"
+    ],
+    "java.jdt.ls.vmargs": "-Xmx2G"
+}
