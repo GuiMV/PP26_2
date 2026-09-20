@@ -1,4 +1,4 @@
-public class Adapter extends Calculadora_202321250008  implements Alvo {
+public class Adapter extends Calculadora_202321250008 implements Alvo {
 
     @Override
     public int somar(int... args){
